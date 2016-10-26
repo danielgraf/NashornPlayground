@@ -1,0 +1,9 @@
+.scripteditor {
+    height: 400px;
+}
+.stretch {
+    width: 100%;
+    resize: vertical;
+    overflow: scroll;
+    white-space: pre-line;
+}
